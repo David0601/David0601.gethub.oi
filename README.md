@@ -1,2 +1,2 @@
-# David0601.gethub.oi
+# David0601.github.oi
 portfolio website for showcases
