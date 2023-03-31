@@ -85,8 +85,8 @@ export default {
     image: 'box1.png',
     href: ''
   }, {
-    title: '',
-    content: '',
+    title: 'Students Integrative Capstone Project',
+    content: 'Design our College Hollway',
     image: 'box3.jpg',
     href: ''
   }, {
