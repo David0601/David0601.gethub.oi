@@ -22,7 +22,7 @@ export default {
     msg: ['Responsive page', 'css animation effect',] 
   }, {
     icon: 'icon-qianbi1',
-    title: 'front-end function',
+    title: 'Front-End Function',
     msg: ['HTML CSS JS NODEJS PHP']
   },  {
     icon: 'icon-shouji',
