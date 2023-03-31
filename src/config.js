@@ -108,7 +108,7 @@ export default {
     title: 'Candle Shopping Website',
     content: 'PHP Website',
     image: 'box6.jpeg',
-    href: ''
+    href: 'https://www.interactive-media-arts.ca/students/2021/wid/xuy3/2022/backend/Yuanyan_Xu_Project4/index.php'
   }],
   // page6
   page6: {
