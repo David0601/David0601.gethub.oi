@@ -51,7 +51,7 @@ export default {
       title: 'Bootstrap',
       text: 'Be familiar with'
     }, {
-      title: '',
+      title: 'User Experience Design',
       text: 'Understand'
     }, {
       title: 'Adobe Creative',
@@ -78,7 +78,7 @@ export default {
       value: '40%'
     }]
   },
-  // page5部分
+  // page5
   page5: [{
     title: '508 Studio',
     content: '',
@@ -97,7 +97,7 @@ export default {
   }, {
     title: '',
     content: '',
-    image: '',
+    image: 'box5.jpg',
     href: ''
   }, {
     title: 'Portfolio | Yuanyan Xu',
