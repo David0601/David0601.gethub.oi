@@ -23,11 +23,11 @@ export default {
   }, {
     icon: 'icon-qianbi1',
     title: 'Front-End Function',
-    msg: ['HTML CSS JS NODEJS PHP']
+    msg: ['HTML CSS JS NODEJS REACT ']
   },  {
     icon: 'icon-shouji',
-    title: 'framework',
-    msg: ['PYTHON FRAMEWORK','UI FRAMEWORK 、NODEJS 、mysql',]
+    title: 'Front-End Function',
+    msg: [' PHP',' 、MYSQL',]
   }],
   // page4
   page4: {
@@ -86,7 +86,7 @@ export default {
     href: ''
   }, {
     title: 'Students Integrative Capstone Project',
-    content: 'Design our College Hollway',
+    content: 'Design our College Creative Media Hollway.',
     image: 'box3.jpg',
     href: ''
   }, {
