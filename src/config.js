@@ -113,7 +113,7 @@ export default {
   // page6
   page6: {
     github: 'https://github.com/David0601',
-    bili: '',
+    linkedin: 'https://www.linkedin.com/in/yuanyan-xu-b4646321b/',
     email: 'Mailto:2407779683xyy@gmail.com?Subject=title&Body=Content',
     zhihu: '',
 
