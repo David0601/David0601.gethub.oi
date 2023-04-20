@@ -97,7 +97,7 @@ export default {
   }, {
     title: '',
     content: '',
-    image: 'box5.jpg',
+    image: 'box2.jpg',
     href: ''
   }, {
     title: 'Portfolio | Yuanyan Xu',
