@@ -90,10 +90,10 @@ export default {
     image: 'box3.jpg',
     href: ''
   }, {
-    title: '',
-    content: '',
+    title: 'Assiniboine Park Zoo',
+    content: 'Skills Manitoba Project',
     image: 'box5.jpg',
-    href: ''
+    href: 'https://david0601.github.io/project/'
   }, {
     title: '',
     content: '',
