@@ -80,10 +80,10 @@ export default {
   },
   // page5
   page5: [{
-    title: '508 Studio',
-    content: '',
+    title: 'Skills Manitoba',
+    content: 'Certificate',
     image: 'box1.png',
-    href: ''
+    href: 'https://www.interactive-media-arts.ca/students/2021/wid/xuy3/2022/Portfolio/skills-manitoba/'
   }, {
     title: 'Students Integrative Capstone Project',
     content: 'Design our College Creative Media Hollway.',
