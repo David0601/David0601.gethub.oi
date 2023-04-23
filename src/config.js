@@ -49,16 +49,16 @@ export default {
 
     singlelist: [{
       title: 'Bootstrap',
-      text: 'Be familiar with'
+      text: 'Familiar'
     }, {
       title: 'User Experience Design',
       text: 'Understand'
     }, {
       title: 'Adobe Creative',
-      text: 'Be familiar with'
+      text: 'Familiar'
     }, {
       title: 'Django',
-      text: 'Be familiar with'
+      text: 'Familiar'
     }],
     //Basic skills
     proresslist: [{
@@ -66,16 +66,16 @@ export default {
       value: '60%'
     }, {
       title: 'JS、JQ',
-      value: '40%'
+      value: '30%'
     }, {
       title: 'Python',
-      value: '40%'
+      value: '30%'
     }, {
       title: 'NodeJs',
-      value: '40%'
+      value: '30%'
     }, {
       title: 'MYSQL',
-      value: '40%'
+      value: '30%'
     }]
   },
   // page5
