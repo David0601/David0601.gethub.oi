@@ -85,20 +85,20 @@ export default {
     image: 'box1.png',
     href: 'https://www.interactive-media-arts.ca/students/2021/wid/xuy3/2022/Portfolio/skills-manitoba/'
   }, {
-    title: 'Students Integrative Capstone Project',
-    content: 'Design our College Creative Media Hollway.',
+    title: 'WordPress Website design clientcountsbookkeeping.com',
+    content: 'Design client bookkeeping website.',
     image: 'box3.jpg',
-    href: ''
+    href: 'https://clientcountsbookkeeping.com/'
   }, {
     title: 'Assiniboine Park Zoo',
     content: 'Skills Manitoba Project',
     image: 'box5.jpg',
     href: 'https://david0601.github.io/project/'
   }, {
-    title: '',
-    content: '',
+    title: 'WordPress Website design Action line Tell the truth ',
+    content: 'Design action line website',
     image: 'box2.png',
-    href: ''
+    href: 'https://actionline.ca/'
   }, {
     title: 'Portfolio | Yuanyan Xu',
     content: 'Build the Website with html,css,jq,bootstrap',
