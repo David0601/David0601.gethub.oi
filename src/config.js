@@ -100,10 +100,10 @@ export default {
     image: 'box2.png',
     href: 'https://actionline.ca/'
   }, {
-    title: 'Portfolio | Yuanyan Xu',
+    title: 'Gendis | Website',
     content: 'Build the Website with html,css,jq,bootstrap',
     image: 'box4.png',
-    href: 'https://www.interactive-media-arts.ca/students/2021/wid/xuy3/2022/Portfolio/'
+    href: 'https://gendis.ca/'
   }, {
     title: 'Candle Shopping Website',
     content: 'PHP Website',
